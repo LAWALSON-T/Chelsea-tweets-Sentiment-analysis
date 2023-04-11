@@ -4,6 +4,7 @@ The Project focuses on extracting the reaction and sentiments of fans on twitter
 Using Sentiment analysis to see if we can predict the next chelsea manager, or if the appointment will go in favour or against the fans choice 
 
 The dataset is available for download on my kaggle repository https://www.kaggle.com/datasets/lawalsontomiwa/chelsea-tweets/code
+The kaggle notebook  https://www.kaggle.com/code/lawalsontomiwa/chelsea-tweets-sentiment-analysis?scriptVersionId=125429747
 
 ## METHOD
 
@@ -11,7 +12,7 @@ The project is divided into two phases
 #### Twitter scrape and EDA
 
 #### Sentiment analysis and EDA
-the first phase done on Jupyter notebook the second phase done on Kaggle notebook
+The first phase is done on a Jupyter notebook the second phase is done on a Kaggle notebook
 
 ### Twitter scrape and EDA
 We will be using snscrape sraper for social networking services, scraping 2000 tweets for every 12 hours till the official announcement of the new manager.
