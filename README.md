@@ -4,6 +4,7 @@ The Project focuses on extracting the reaction and sentiments of fans on twitter
 Using Sentiment analysis to see if we can predict the next chelsea manager, or if the appointment will go in favour or against the fans choice 
 
 The dataset is available for download on my kaggle repository https://www.kaggle.com/datasets/lawalsontomiwa/chelsea-tweets/code
+
 The kaggle notebook  https://www.kaggle.com/code/lawalsontomiwa/chelsea-tweets-sentiment-analysis?scriptVersionId=125429747
 
 ## METHOD
