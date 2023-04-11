@@ -1,6 +1,6 @@
 ## INTRODUCTION
 
-The Project focuses on extracting the reaction and sentiments of fans on twitter ,following the sack of chelsea manager Graham potter and their view on the potential candidates to repalce him as manager of the club.
+The Project focuses on extracting the reaction and sentiments of fans on twitter ,following the sack of chelsea manager Graham potter and their view on the potential candidates to replace him as manager of the club.
 Using Sentiment analysis to see if we can predict the next chelsea manager, or if the appointment will go in favour or against the fans choice 
 
 The dataset is available for download on my kaggle repository https://www.kaggle.com/datasets/lawalsontomiwa/chelsea-tweets/code
