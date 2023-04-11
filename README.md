@@ -1,3 +1,3 @@
-# SPORTS-SERIES
+## INTRODUCTION
 
-As a huge sports fans , its always so exciting dabbling in sports data , so for now i will be doing this as a hobby , hopefully someday professionally but the one thing i am sure of is , I am going to have fun doing them  
+The Project focuses on extracting the reaction and sentiments of fans on twitter ,following the sack of chelsea manager Graham potter and their view on the potential candidates to repalce him as manager of the club.
