@@ -11,6 +11,7 @@ The project is divided into two phases
 #### Twitter scrape and EDA
 
 #### Sentiment analysis and EDA
+the first phase done on Jupyter notebook the second phase done on Kaggle notebook
 
 ### Twitter scrape and EDA
 We will be using snscrape sraper for social networking services, scraping 2000 tweets for every 12 hours till the official announcement of the new manager.
